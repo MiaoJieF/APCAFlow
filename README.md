@@ -105,6 +105,6 @@ Please feel free to contact me (Miaojie) at fmj@hust.edu.cn.
 
 ## Acknowledgements
 
-This project is heavily based on [RAFT](https://github.com/princeton-vl/RAFT)), We thank the original authors for their excellent work.
+This project is heavily based on [RAFT](https://github.com/princeton-vl/RAFT), We thank the original authors for their excellent work.
 
 
